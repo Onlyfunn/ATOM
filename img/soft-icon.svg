@@ -1,0 +1,59 @@
+<svg width="32.655762" height="24.000000" viewBox="0 0 32.6558 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip21_4939">
+			<rect id="figma " width="16.090914" height="24.000000" transform="translate(8.125000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_4948">
+			<rect id="sketch" width="26.400005" height="24.000000" transform="translate(2.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_4950">
+			<rect id="logo 1" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_4952">
+			<rect id="avacode" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_4955">
+			<rect id="photoshop " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_4965">
+			<rect id="zeplin " width="30.144009" height="24.000000" transform="translate(1.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_4969">
+			<rect id="invision " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_4983">
+			<rect id="html " width="16.956522" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_4989">
+			<rect id="css-3 " width="17.174314" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_4992">
+			<rect id="javascript " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_4994">
+			<rect id="sass " width="32.655739" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_4997">
+			<rect id="git-icon " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_5004">
+			<rect id="gulp " width="10.871794" height="24.000000" transform="translate(10.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_5006">
+			<rect id="wordpress logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_5009">
+			<rect id="bitrix-1 logo" width="23.887417" height="24.000000" transform="translate(4.488037 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip21_5011">
+			<rect id="codeigniter-plain logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="bitrix-1 logo" width="23.887417" height="24.000000" transform="translate(4.488037 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip21_5009)">
+		<path id="path821" d="M14.1285 23.8591C12.0358 23.4297 10.0858 22.4517 8.56384 21.092C4.64008 17.5974 3.41541 12.0989 5.49615 7.19678C6.00745 5.99219 6.83978 4.77563 7.8623 3.71411L8.76599 2.78369L8.82544 8.24634C8.88489 13.4824 8.89679 13.7449 9.14648 14.4009C9.64587 15.7249 10.169 16.5596 11.0846 17.4661C13.4388 19.8157 16.887 20.4001 19.8239 18.957C22.5824 17.5974 24.3184 14.6274 24.1162 11.6218C23.9855 9.6062 23.3077 8.1272 21.8452 6.66016C20.7394 5.55078 19.4434 4.82324 18.0403 4.52515C16.6016 4.22705 16.673 4.1792 16.673 5.39575L16.673 6.44531L17.4577 6.58862C20.5016 7.14917 22.5229 10.1548 21.8928 13.1843C21.6906 14.1504 21.2388 15.009 20.5135 15.7964C19.4077 16.989 17.8501 17.5615 16.4946 17.5615C14.2474 17.5615 12.3806 16.2734 11.4651 14.3889C11.4651 14.3889 11.2272 13.8523 11.1559 13.5183C10.7041 11.5503 10.9894 7.42334 10.9894 7.42334L10.9538 1.37646L11.3105 1.19751C11.5007 1.09009 11.691 1.01855 11.7266 1.01855C11.7623 1.01855 11.798 3.79761 11.8218 7.19678C11.8218 7.19678 11.3937 11.6458 11.9288 13.3513C12.0001 13.6018 12.1547 14.019 12.1547 14.019C12.6184 14.9734 13.3675 15.8201 14.3425 16.2854C15.0797 16.6311 15.4601 16.7981 16.5541 16.7981C17.2675 16.7981 17.8976 16.5715 18.6348 16.2375C19.491 15.844 20.4778 14.7944 20.8464 13.8284C21.8452 11.1804 20.454 8.3418 17.755 7.54272C16.6492 7.2207 16.673 7.19678 16.673 8.40137L16.673 9.45117L17.1962 9.59424C19.0986 10.1072 19.6812 12.6714 18.183 13.9834C17.6599 14.4485 17.1843 14.6514 16.3519 14.6514C15.4601 14.6514 14.6041 14.1145 14.1641 13.2798C13.9025 12.7788 13.8788 12.3135 13.8788 12.0989C13.8788 10.1072 13.8312 6.50513 13.8312 6.50513L13.7955 0.338623L14.069 0.26709C14.2236 0.231445 14.83 0.135986 15.4245 0.0644531C17.434 -0.197998 20.4065 0.469971 22.4041 1.61499C25.1269 3.17749 27.1839 5.86108 28.04 8.96216C28.3373 10.0237 28.3729 10.3457 28.3729 12.0513C28.3729 13.7568 28.3373 14.0789 28.0519 15.1284C26.8867 19.3506 23.9141 22.3562 19.6693 23.6443C18.7775 23.9187 18.3614 23.9663 16.78 24.0022C15.5078 24.0142 14.6873 23.9783 14.1285 23.8591Z" fill="#E80016" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

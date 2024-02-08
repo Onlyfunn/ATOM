@@ -1,0 +1,16 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip375_7448">
+			<rect id="flags / russia" width="24.000000" height="24.000000" transform=" rotate(-0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="flags / russia" width="24.000000" height="24.000000" transform=" rotate(-0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip375_7448)">
+		<path id="Vector" d="M24 12C24 18.6274 18.6274 24 12 24C5.37256 24 0 18.6274 0 12C0 5.37256 5.37256 0 12 0C18.6274 0 24 5.37256 24 12Z" fill="#F0F0F0" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M23.2537 16.1738C23.736 14.874 24 13.4678 24 12C24 10.5322 23.736 9.12598 23.2537 7.82617L0.746338 7.82617C0.264038 9.12598 0 10.5322 0 12C0 13.4678 0.264038 14.874 0.746338 16.1738L12 17.2173L23.2537 16.1738Z" fill="#0052B4" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M12.0002 24C17.1598 24 21.5582 20.7437 23.2538 16.1738L0.746582 16.1738C2.44214 20.7437 6.84058 24 12.0002 24Z" fill="#D80027" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

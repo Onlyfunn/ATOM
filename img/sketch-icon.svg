@@ -1,0 +1,66 @@
+<svg width="32.655762" height="24.000000" viewBox="0 0 32.6558 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip11_628">
+			<rect id="figma " width="16.090914" height="24.000000" transform="translate(8.125000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_637">
+			<rect id="sketch" width="26.400005" height="24.000000" transform="translate(2.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_639">
+			<rect id="logo 1" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_641">
+			<rect id="avacode" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_644">
+			<rect id="photoshop " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_654">
+			<rect id="zeplin " width="30.144009" height="24.000000" transform="translate(1.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_658">
+			<rect id="invision " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_672">
+			<rect id="html " width="16.956522" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_678">
+			<rect id="css-3 " width="17.174314" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_681">
+			<rect id="javascript " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_683">
+			<rect id="sass " width="32.655739" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_686">
+			<rect id="git-icon " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_693">
+			<rect id="gulp " width="10.871794" height="24.000000" transform="translate(10.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_695">
+			<rect id="wordpress logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_698">
+			<rect id="bitrix-1 logo" width="23.887417" height="24.000000" transform="translate(4.488037 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_700">
+			<rect id="codeigniter-plain logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="sketch" width="26.400005" height="24.000000" transform="translate(2.875000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip11_637)">
+		<path id="Vector" d="M8.2392 8.62354L16.0475 23.9723L2.92316 8.62354L8.2392 8.62354Z" fill="#EA6C00" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M23.858 8.62354L16.0497 23.9723L29.1741 8.62354L23.858 8.62354Z" fill="#EA6C00" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M8.23889 8.62354L23.8555 8.62354L16.0472 23.9723L8.23889 8.62354Z" fill="#FDAD00" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M16.0472 0.117188L8.64984 0.902466L8.23889 8.62354L16.0472 0.117188Z" fill="#FDD231" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M16.0472 0.117188L23.4446 0.902466L23.8555 8.62354L16.0472 0.117188Z" fill="#FDD231" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M29.1741 8.62366L23.4471 0.902588L23.858 8.62366L29.1741 8.62366Z" fill="#FDAD00" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M2.92316 8.62366L8.65015 0.902588L8.2392 8.62366L2.92316 8.62366Z" fill="#FDAD00" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M16.0472 0.117188L8.23889 8.62354L23.8555 8.62354L16.0472 0.117188Z" fill="#FEEEB7" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

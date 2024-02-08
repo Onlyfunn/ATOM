@@ -1,0 +1,66 @@
+<svg width="32.655762" height="24.000000" viewBox="0 0 32.6558 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip11_3800">
+			<rect id="figma " width="16.090914" height="24.000000" transform="translate(8.125000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3809">
+			<rect id="sketch" width="26.400005" height="24.000000" transform="translate(2.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3811">
+			<rect id="logo 1" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3813">
+			<rect id="avacode" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3816">
+			<rect id="photoshop " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3826">
+			<rect id="zeplin " width="30.144009" height="24.000000" transform="translate(1.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3830">
+			<rect id="invision " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3844">
+			<rect id="html " width="16.956522" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3850">
+			<rect id="css-3 " width="17.174314" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3853">
+			<rect id="javascript " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3855">
+			<rect id="sass " width="32.655739" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3858">
+			<rect id="git-icon " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3865">
+			<rect id="gulp " width="10.871794" height="24.000000" transform="translate(10.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3867">
+			<rect id="wordpress logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3870">
+			<rect id="bitrix-1 logo" width="23.887417" height="24.000000" transform="translate(4.488037 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_3872">
+			<rect id="codeigniter-plain logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="zeplin " width="30.144009" height="24.000000" transform="translate(1.000000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip11_3826)">
+		<path id="Vector" d="M5.64661 16.5472L4.06976 17.1211L3.98584 21.7931L9.44403 19.807C7.57037 19.182 6.20392 18.0804 5.64661 16.5472Z" fill="#FDBD39" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M6.47198 11.6057L1 13.5968L4.06976 17.1223L5.64661 16.5485C5.09052 15.0203 5.43365 13.2949 6.47198 11.6057Z" fill="#F69833" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M15.6787 4.86279C8.71136 7.39783 4.21881 12.6299 5.64661 16.5471L30.8773 7.36658C29.4495 3.44934 22.6461 2.32788 15.6787 4.86279Z" fill="#FECF33" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M20.8439 19.0522C27.8113 16.5173 32.3113 11.3088 30.876 7.36792L5.64539 16.5472C7.08069 20.4895 13.8765 21.5873 20.8439 19.0522Z" fill="#EE6723" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M30.8759 7.3667L5.64655 16.5472C6.14001 17.9045 8.02496 18.5732 10.6676 18.5732C13.2452 18.5732 16.5441 17.9382 19.9833 16.687C26.9507 14.152 31.8516 10.0464 30.8759 7.3667Z" fill="#F69833" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M25.855 5.34192C23.2787 5.34192 19.9785 5.97693 16.5392 7.22815C9.57184 9.76318 4.67096 13.8676 5.64667 16.5472L30.8773 7.3667C30.3826 6.0094 28.4989 5.34192 25.855 5.34192Z" fill="#FDBD39" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M24.461 22.0414C23.7183 22.0414 22.6237 21.374 21.2059 20.0566C19.5288 18.4984 17.6088 16.2155 15.7965 13.6293C13.9855 11.0432 12.4976 8.45825 11.6058 6.34875C10.6352 4.05078 10.4962 2.63855 11.1938 2.14954C11.3553 2.03979 11.5469 1.98364 11.7424 1.98865C12.3097 1.98865 13.4169 2.40906 15.4621 4.41504L15.5072 4.45874L15.501 4.52112C15.4872 4.66577 15.4747 4.81055 15.4634 4.95398L15.4409 5.23718L15.2404 5.03625C13.0361 2.82446 12.0667 2.58618 11.7511 2.58618C11.6609 2.58618 11.5895 2.60364 11.5382 2.63977C11.2351 2.85193 11.2151 3.88977 12.1569 6.1167C13.0323 8.18762 14.499 10.7338 16.2863 13.2863C18.0748 15.84 19.9659 18.088 21.6141 19.6187C23.3901 21.2692 24.1904 21.4476 24.4522 21.4476C24.5424 21.4476 24.6151 21.4288 24.6702 21.3901C24.9895 21.1669 24.9895 20.0553 23.9399 17.6576L23.8911 17.5479L23.9963 17.4904C24.1015 17.433 24.2042 17.3768 24.2994 17.322L24.4259 17.2509L24.4848 17.3832C25.2288 19.0823 25.9251 21.2417 25.0121 21.8805C24.8505 21.9902 24.6576 22.0464 24.461 22.0414ZM24.461 21.7794L24.461 21.9104L24.461 21.7794Z" fill="#EE6723" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M21.0129 18.98L21.0029 19.1097C20.8264 21.2804 20.3629 23.8903 19.1531 23.9963C19.128 23.9988 19.103 23.9988 19.0792 23.9988C18.2576 23.9988 17.4798 22.826 16.7697 20.5144C16.0958 18.3263 15.5735 15.3895 15.2993 12.2445C15.0237 9.09949 15.0275 6.1167 15.3105 3.84497C15.6187 1.36987 16.2048 0.0773926 17.054 0.00256348C17.079 0 17.1053 -0.0012207 17.1304 -0.0012207C17.7265 -0.0012207 18.6245 0.671143 19.5438 3.80249L18.9439 3.91724C18.637 2.87183 18.3027 2.021 17.9708 1.43469C17.6639 0.894531 17.3646 0.596313 17.1304 0.596313C17.1229 0.596313 17.1153 0.596313 17.1066 0.597534C16.7383 0.630005 16.2023 1.51831 15.9042 3.91858C15.6262 6.14905 15.6224 9.08826 15.8942 12.1921C16.166 15.2972 16.6794 18.1903 17.3408 20.3385C17.6364 21.3004 17.9608 22.0938 18.2801 22.6315C18.5732 23.1281 18.8575 23.4012 19.0792 23.4012C19.0867 23.4012 19.0942 23.4012 19.1017 23.3999C19.4537 23.37 20.1174 22.4443 20.3967 19.1896L21.0129 18.98Z" fill="#EE6723" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

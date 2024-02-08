@@ -1,0 +1,42 @@
+<svg width="32.655762" height="24.000000" viewBox="0 0 32.6558 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip11_2548">
+			<rect id="html " width="16.956522" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_2554">
+			<rect id="css-3 " width="17.174314" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_2557">
+			<rect id="javascript " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_2559">
+			<rect id="sass " width="32.655739" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_2562">
+			<rect id="git-icon " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_2569">
+			<rect id="gulp " width="10.871794" height="24.000000" transform="translate(10.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_2571">
+			<rect id="wordpress logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_2574">
+			<rect id="bitrix-1 logo" width="23.887417" height="24.000000" transform="translate(4.488037 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip11_2576">
+			<rect id="codeigniter-plain logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="css-3 " width="17.174314" height="24.000000" transform="translate(7.875000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip11_2554)">
+		<path id="Vector" d="M16.4517 23.9395L9.46301 22.0166L7.90558 4.70471L25.0187 4.70471L23.4597 22.014L16.4517 23.9395Z" fill="#264DE4" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M22.125 20.9117L23.4572 6.12012L16.4622 6.12012L16.4622 22.4675L22.125 20.9117Z" fill="#2965F1" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M11.476 12.5409L11.6679 14.6641L16.4622 14.6641L16.4622 12.5409L11.476 12.5409ZM11.0901 8.24341L11.2849 10.3667L16.4622 10.3667L16.4622 8.24341L11.0901 8.24341ZM16.4622 18.0552L16.4528 18.0576L14.0668 17.4191L13.9143 15.7257L11.7637 15.7257L12.0638 19.0596L16.4523 20.2668L16.4622 20.2642L16.4622 18.0552Z" fill="#EBEBEB" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M11.933 0L14.5278 0L14.5278 1.07544L13.0181 1.07544L13.0181 2.15088L14.5279 2.15088L14.5279 3.2262L11.933 3.2262L11.933 0ZM15.0468 0L17.6415 0L17.6415 0.935181L16.1319 0.935181L16.1319 1.12219L17.6415 1.12219L17.6415 3.27295L15.0468 3.27295L15.0468 2.29102L16.5565 2.29102L16.5565 2.104L15.0467 2.104L15.0467 0L15.0468 0ZM18.1606 0L20.7553 0L20.7553 0.935181L19.2457 0.935181L19.2457 1.12219L20.7553 1.12219L20.7553 3.27295L18.1606 3.27295L18.1606 2.29102L19.6702 2.29102L19.6702 2.104L18.1606 2.104L18.1606 0L18.1606 0Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M21.4348 12.5409L21.8215 8.24341L16.4548 8.24341L16.4548 10.3667L19.4736 10.3667L19.2787 12.5409L16.4548 12.5409L16.4548 14.6641L19.093 14.6641L18.8442 17.4178L16.4548 18.057L16.4548 20.2659L20.8468 19.0596L20.879 18.7008L21.3825 13.111L21.4348 12.5409Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
